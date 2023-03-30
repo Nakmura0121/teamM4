@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+  text-align: center;	
+}
+a{
+	text-decoration: none;
+	position:relative;
+	top: 40px;
+	margin:20px 30px 20px 10px;	
+	color:black;
+}
+li{
+    padding:40px;
+    font-family: serif;
+    font-size: 40px;
+  }  
+ul{
+	list-style: none;
+}
+.logout{
+	text-align: right;
+	
+}
+.logout2{
+	background-color: #CCFFFF	;
+    display: inline-block;
+	font-size: 40px;
+	border:solid ;
+}

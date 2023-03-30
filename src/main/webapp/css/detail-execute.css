@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body{
+	text-align: center;
+}
+
+h1{
+    
+	position:relative;
+	top: 80px;	
+}
+li{
+    padding:40px;
+    font-family: serif;
+    font-size: 40px;
+  }  
+ul{
+	list-style: none;
+}
+a{	
+	font-size: 40px;
+	text-decoration: none;
+	position:relative;
+	top: 100px;
+	margin:50px 50px 10px 50px;	
+	color:black;
+	
+	background-color: #99FFFF	;
+}

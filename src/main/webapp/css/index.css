@@ -1,0 +1,44 @@
+@charset "UTF-8";
+body{
+	text-align: center;
+	
+}
+.color{
+	background-color: #66FFCC;
+	height: 40px;
+}
+h1{
+	background-color: #66FFCC;
+	position:relative;
+	top: 60px;
+	display: inline-block;
+	font-size: 50px; 
+}
+h3{
+	position:relative;
+	top: 60px;
+	font-size: 40px;
+}
+a{
+	text-decoration: none;
+	position:relative;
+	top: 40px;
+	margin:20px 30px 20px 10px;	
+	color:black;	
+	
+	width:500px;
+     height: 100px;
+     background-color: #FFFFBB	;
+     border-radius: 50%;
+     line-height: 100px;
+}
+li{
+    padding:40px;
+    font-family: serif;
+    font-size: 40px;
+		
+}
+ul{
+	
+	list-style: none;
+}

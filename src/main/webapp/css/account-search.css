@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body{
+	background-color: #EEEEEE	;
+}
+
+.back{
+	background-color: #FFFF99	;
+	margin: 0 0 0 1150px;
+	display:block;
+	font-size: 30px;
+	text-decoration: none;	
+	color:black;
+	display: inline-block;
+	border:solid  #EEEEEE	;
+}
+h1{
+	text-align: center;
+	position:relative;
+	top: 60px;
+}
+p{
+	text-align: center;
+	font-size: 30px;
+	position:relative;
+	top: 60px;
+}
+form{
+	text-align: center;
+}
+.in{
+	position:relative;
+	top: 60px;
+}
+.submit{
+	position:relative;
+	top: 80px;
+
+    font-size: 20px;
+	height:40px;
+	width:100px;
+    margin: 30px 10px 20px 10px;
+    
+    color:black;
+    background-color:#CCFFFF	;
+}

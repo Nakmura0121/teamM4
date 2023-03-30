@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+h1{
+	text-align: center;
+	position:relative;
+	top: 60px;
+}
+.back{
+	background-color: #FFFF99	;
+	margin: 0 0 0 1150px;
+	display:block;
+	font-size: 30px;
+	text-decoration: none;	
+	color:black;
+	display: inline-block;
+	border:solid  #EEEEEE	;
+
+}
+table{
+	margin:auto;
+	position:relative;
+	top: 60px;
+}

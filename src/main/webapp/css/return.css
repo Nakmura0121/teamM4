@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+h1{
+    text-align: center;
+	position:relative;
+	top: 60px;	
+}
+.back{
+	background-color: #FFFF99	;
+	margin: 0 0 0 1150px;
+	display:block;
+	font-size: 30px;
+	text-decoration: none;	
+	color:black;
+	display: inline-block;
+}
+form{
+	text-align: center;
+	position:relative;
+	top: 70px;
+	
+}
+.submit{
+	position:relative;
+	top: 60px;
+	height:30px;
+	width:100px;
+    margin: 30px 10px 20px 10px;
+    
+    background-color: #FFFF88	;
+}
